@@ -10,3 +10,6 @@ Methodology paper: https://arxiv.org/pdf/1706.09359.pdf
 Cosmosis environment name: /global/u2/h/huikong/software/cosmosis/env3
 
 My Cosmosis is located at: /global/u2/h/huikong/software/cosmosis
+
+cosmosis wiki: https://bitbucket.org/joezuntz/cosmosis/wiki/
+installation at NERSC: https://bitbucket.org/joezuntz/cosmosis/wiki/Installation%20at%20NERSC
