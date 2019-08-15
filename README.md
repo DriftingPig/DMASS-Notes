@@ -1,1 +1,12 @@
 # DMASS-Notes
+# DMASS-Notes
+
+modified gravity paper: https://arxiv.org/pdf/1810.02499.pdf
+
+DES YI summary paper: https://arxiv.org/pdf/1708.01530.pdf
+
+Methodology paper: https://arxiv.org/pdf/1706.09359.pdf
+
+Cosmosis environment name: /global/u2/h/huikong/software/cosmosis/env3
+
+My Cosmosis is located at: /global/u2/h/huikong/software/cosmosis
