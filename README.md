@@ -18,3 +18,8 @@ installation at NERSC: https://bitbucket.org/joezuntz/cosmosis/wiki/Installation
 info for dmass kernel is at:/global/u2/h/huikong/.local/share/jupyter/kernels
 
 the conda environment is called /global/homes/h/huikong/software/dmass
+
+
+py2 environment:
+
+source activate /global/homes/h/huikong/software/dmass/dmass_py2
