@@ -13,3 +13,8 @@ My Cosmosis is located at: /global/u2/h/huikong/software/cosmosis
 
 cosmosis wiki: https://bitbucket.org/joezuntz/cosmosis/wiki/
 installation at NERSC: https://bitbucket.org/joezuntz/cosmosis/wiki/Installation%20at%20NERSC
+
+
+info for dmass kernel is at:/global/u2/h/huikong/.local/share/jupyter/kernels
+
+the conda environment is called /global/homes/h/huikong/software/dmass
