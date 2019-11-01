@@ -23,3 +23,6 @@ the conda environment is called /global/homes/h/huikong/software/dmass
 py2 environment:
 
 source activate /global/homes/h/huikong/software/dmass/dmass_py2
+
+
+https://docs.google.com/document/d/1-GcWMpcP6qIbJ86YvMgmVn38ctPhy7mXO2dHssKhebA/edit#
