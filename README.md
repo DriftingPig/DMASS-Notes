@@ -26,3 +26,6 @@ source activate /global/homes/h/huikong/software/dmass/dmass_py2
 
 
 https://docs.google.com/document/d/1-GcWMpcP6qIbJ86YvMgmVn38ctPhy7mXO2dHssKhebA/edit#
+
+
+obiwan environment on OSC: /users/PCON0003/cond0095/.conda/envs/obiwan
